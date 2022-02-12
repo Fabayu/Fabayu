@@ -18,9 +18,10 @@
 [<img align="left" alt="ayush | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-<br />
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fabayu &theme=radical)
+<br />
 
 
 
