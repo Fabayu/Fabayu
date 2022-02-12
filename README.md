@@ -1,32 +1,5 @@
-<!-- ### Hi there, I'm Ayush Jaiswal 👋 
 
 
-
-## I'm a Technophile,learning web-development,loves problem solving,content writing and a person who beleives in working as a team!!
-
-
-- 🌱 I’m currently trying out  hands at everything to find what actually fascinates me .Yah! ...on an adventurous exploaration
-- 👯 I’m looking to collaborate with other content creators and developers out there
-- 🥅 2022 Goals: Dsa ,investments and Web3 and a project for old-age people.Pls dont tell anyone !...🤐😂
-- ⚡ More about me: Dream to work as a chef part-time though😅I love staring stars at 2 in the morning and love reading books and lot more.
-
-### Connect with me:
-
-
-
-[<img align="left" alt="ayush | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="ayush | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-
-
-
-<br />
-
-
-
-[twitter]: https://twitter.com/ayush_jai28
-[linkedin]: https://www.linkedin.com/in/ayush-jaiswal-aa3781211/ -->
 
 
 
@@ -47,17 +20,17 @@
 
 <p align="left"> <a href="https://twitter.com/@ayush_jai28" target="blank"><img src="https://img.shields.io/twitter/follow/@ayush_jai28?logo=twitter&style=for-the-badge" alt="@ayush_jai28" /></a> </p>
 
-- 🔭 I’m currently working on *everything 🤣*
+- 🔭 I’m currently trying out  hands at everything to find what actually fascinates me .Yah! ...on an adventurous exploaration*
 
 - 🌱 I’m currently learning *React*
 
-- 👯 I’m looking to collaborate on *Ml and React projects*
+- 👯 I’m looking to collaborate on *with other content creators and developers out there ,🥅 2022 Goals: Dsa ,investments and Web3 and a project for old-age people.*
 
-- 💬 Ask me about *React*
+- 💬 Ask me about *React and Nextjs*
 
 - 📫 How to reach me *ayushjai1267@gmail.com or ayush.2024cs1134@kiet.edu*
 
-- ⚡ Fun fact *If not engineer then would have been a chef 😂*
+- ⚡ Fun fact *I love staring stars at 2 in the morning and love reading books and lot more 🤣*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
