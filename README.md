@@ -11,37 +11,42 @@
 
 
 
-<h1 align="center">Hola Amigo👋,I'm Ayush Jaiswal</h1>
-<h3 align="center">A Technophile and a developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fabayu&label=Profile%20views&color=0e75b6&style=flat" alt="fabayu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fabayu" alt="fabayu" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@ayush_jai28" target="blank"><img src="https://img.shields.io/twitter/follow/@ayush_jai28?logo=twitter&style=for-the-badge" alt="@ayush_jai28" /></a> </p>
 
-- 🔭 I’m currently trying out  hands at everything to find what actually fascinates me .Yah! ...on an adventurous exploaration*
+<a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" height="175px"/></a>
 
-- 🌱 I’m currently learning *React*
+
+
+
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ayush</h1>
+<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
+
+
+- 🔭 Trying out  hands at everything to find what actually fascinates me .Yah! ...on an adventurous exploaration*
+
+- 🌱 I’m currently *working on something cool 😉*
 
 - 👯 I’m looking to collaborate on *with other content creators and developers out there ,🥅 2022 Goals: Dsa ,investments and Web3 and a project for old-age people.*
 
-- 💬 Ask me about *React and Nextjs*
+- 💬 Ask me about *anything ,i m happy to help :)*
 
 - 📫 How to reach me *ayushjai1267@gmail.com or ayush.2024cs1134@kiet.edu*
 
-- ⚡ Fun fact *I love staring stars at 2 in the morning and love reading books and lot more 🤣*
+- ⚡ Fun fact *I love 🐶s and staring the stars at 2 in the morning  🤣*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@ayush_jai28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ayush_jai28" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ayush-jaiswal-aa3781211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayush-jaiswal-aa3781211/" height="30" width="40" /></a>
-<a href="https://kaggle.com/ayush jaisw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ayush jaisw" height="30" width="40" /></a>
+<!-- <a href="https://kaggle.com/ayush jaisw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ayush jaisw" height="30" width="40" /></a> -->
 <a href="https://instagram.com/ayushjaiswal1267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayushjaiswal1267" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ayush jaiswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ayush jaiswal" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ayush_chef28" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ayush_chef28" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ayush_lit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayush_lit" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ayush2024cs1134" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ayush2024cs1134" height="30" width="40" /></a>
+<!-- <a href="https://www.codechef.com/users/ayush_chef28" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ayush_chef28" height="30" width="40" /></a> -->
+<!-- <a href="https://www.leetcode.com/ayush_lit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayush_lit" height="30" width="40" /></a> -->
+<!-- <a href="https://auth.geeksforgeeks.org/user/ayush2024cs1134" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ayush2024cs1134" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
