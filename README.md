@@ -2,7 +2,7 @@
 
 
 
-## I'm a Technophile,learning web-development,loves problem solving,content writing, playing with data  and  a person who beleives in working as a team!!
+## I'm a Technophile,learning web-development,loves problem solving,content writing and a person who beleives in working as a team!!
 
 
 - 🌱 I’m currently trying out  hands at everything to find what actually fascinates me .Yah! ...on an adventurous exploaration
