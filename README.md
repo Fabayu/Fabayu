@@ -7,60 +7,75 @@
 
 
 
+<h1 align="center">Hi , I'm Ayush <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&lines=I'm+a+Web+developer!+%F0%9F%92%BB)](https://github.com/Uzcoin404)
+
+- 🌱 I’m currently learning React
+- 💬 Ask me about Web sites  and Javascript
+- 🧑‍💻 I’m looking to collaborate on open source projects
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: My Nickname is Sunny
+- 📫 How to reach me: ayushjai1267@gmail.com 
+
+<a href="https://twitter.com/ayush_jai28"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ayush-jaiswal-aa3781211/"><img src="https://img.shields.io/badge/Linkedin-0072b1.svg?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 
 
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%"/>
+<h3 align="center">Languages and Tools:</h3>
 
+<div style="display: inline-block"><br />
+    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img align="center" alt="REACTJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-8b12fd?style=for-the-badge&logo=Bootstrap&logoColor=white" />
+    <img align="center" alt="Tailwind" src="https://img.shields.io/badge/Tailwindcss-38bdf8?style=for-the-badge&logo=Tailwindcss&logoColor=white" />
+    <img align="center" alt="Jquery" src="https://img.shields.io/badge/Jquery-0865a6?style=for-the-badge&logo=Jquery&logoColor=white" />
+    <img align="center" alt="API" src="https://img.shields.io/badge/API-202124?style=for-the-badge&logo=API&logoColor=white" />
+    <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-0ac97f?style=for-the-badge&logo=Figma&logoColor=black" />
+    <img align="center" alt="Github" src="https://img.shields.io/badge/Github-161b22?style=for-the-badge&logo=Github&logoColor=white" />
+    <img align="center"alt="GIT" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    
+</div>
 
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%"/>
 
+<h3 align="center">Profile</h3>
 
+<p align="center">
 
+<!-- <a href="https://github.com/HxnDev"><img alt="Awais's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Awaiskhan404&custom_title=Awais%20khan's%20Contribution%20Graph&theme=react-dark" /></a> -->
+![Ayush's github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fabayu&theme=nord_dark)
+![Ayush's github stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fabayu&theme=nord_dark)
+![Ayush's github stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fabayu&theme=nord_dark)
+![Ayush's github stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fabayu&theme=nord_dark)
+![Ayush's github stats](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fabayu&theme=nord_dark)
 
-
-
-
-
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ayush</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
-
-
-- 🔭 Trying out  hands at everything to find what actually fascinates me .Yah! ...on an adventurous exploaration*
-
-- 🌱 I’m currently *working on something cool 😉*
-
-- 👯 I’m looking to collaborate on *with other content creators and developers out there ,🥅 2022 Goals: Dsa ,investments and Web3 and a project for old-age people.*
-
-- 💬 Ask me about *anything ,i m happy to help :)*
-
-- 📫 How to reach me *ayushjai1267@gmail.com or ayush.2024cs1134@kiet.edu*
-
-- ⚡ Fun fact *I love 🐶s and staring the stars at 2 in the morning  🤣*
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@ayush_jai28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ayush_jai28" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ayush-jaiswal-aa3781211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayush-jaiswal-aa3781211/" height="30" width="40" /></a>
-<!-- <a href="https://kaggle.com/ayush jaisw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ayush jaisw" height="30" width="40" /></a> -->
-<a href="https://instagram.com/ayushjaiswal1267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayushjaiswal1267" height="30" width="40" /></a>
-
-<!-- <a href="https://www.codechef.com/users/ayush_chef28" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ayush_chef28" height="30" width="40" /></a> -->
-<!-- <a href="https://www.leetcode.com/ayush_lit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayush_lit" height="30" width="40" /></a> -->
-<!-- <a href="https://auth.geeksforgeeks.org/user/ayush2024cs1134" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ayush2024cs1134" height="30" width="40" /></a> -->
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabayu&show_icons=true&locale=en&layout=compact" alt="fabayu" /></p>
+<p align="center">
+   
+  <img width=100% src="https://github-profile-trophy.vercel.app/?username=Fabayu&column=6&theme=nord"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fabayu&show_icons=true&locale=en" alt="fabayu" /></p>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fabayu&" alt="fabayu" /></p>
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%"/> 
 
+<details open="">
+  <p align="center">
+   <a href="https://github.com/Fabayu/Fabayu"><img alt="Snake animation" src="https://github.com/Fabayu/Fabayu/blob/output/github-contribution-grid-snake.svg"/></a>
+  </p>
+</details>
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%"/>
 
-
-
-## Snake eating my contribution graph
-
-![snake gif](https://github.com/Fabayu/Fabayu/blob/output/github-contribution-grid-snake.gif)
+<div style="display: inline_block">
+    <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
+    <img align="right" alt="GIF" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="400" />
+</div>
