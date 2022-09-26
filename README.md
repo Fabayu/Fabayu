@@ -43,6 +43,8 @@
     
 </div>
 
+
+
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%"/>
 
 <h3 align="center">Profile</h3>
@@ -50,11 +52,14 @@
 <p align="center">
 
 <!-- <a href="https://github.com/HxnDev"><img alt="Awais's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Awaiskhan404&custom_title=Awais%20khan's%20Contribution%20Graph&theme=react-dark" /></a> -->
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Fabayu&theme=nord)
 ![Ayush's github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fabayu&theme=nord_dark)
 ![Ayush's github stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fabayu&theme=nord_dark)
 ![Ayush's github stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fabayu&theme=nord_dark)
 ![Ayush's github stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fabayu&theme=nord_dark)
 ![Ayush's github stats](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fabayu&theme=nord_dark)
+
 
 </p>
 
