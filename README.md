@@ -20,9 +20,11 @@
 - ⚡ Fun fact: My Nickname is Sunny
 - 📫 How to reach me: ayushjai1267@gmail.com 
 
+
+
+
 <a href="https://twitter.com/ayush_jai28"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 <!-- <a href="https://www.linkedin.com/in/ayush-jaiswal-aa3781211/"><img src="https://img.shields.io/badge/Linkedin-0072b1.svg?style=for-the-badge&logo=Linkedin&logoColor=white"/></a> -->
-
 
 <a href="https://medium.com/@ayushjai1267"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 <a href="https://hashnode.com/@AYUSHJAISWAL28"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
@@ -30,6 +32,9 @@
 <a href="https://auth.geeksforgeeks.org/user/ayush2024cs1134"><img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c"/></a>
 <a href="mail to:ayushjai1267@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
+
+
+[![@ayushcs1134's Holopin board](https://holopin.io/api/user/board?user=ayushcs1134)](https://holopin.io/@ayushcs1134)
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%"/>
 <h3 align="center">Languages and Tools:</h3>
 
