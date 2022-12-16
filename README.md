@@ -109,10 +109,7 @@
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%"/>
 
 <p align="center">
-   
-  <img width=100% src="https://github-profile-trophy.vercel.app/?username=Fabayu&column=6&theme=nord"/>
-
-</p>
+   /
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%"/> 
 
