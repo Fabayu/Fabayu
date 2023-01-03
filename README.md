@@ -29,7 +29,7 @@
 <a href="https://medium.com/@ayushjai1267"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 <a href="https://hashnode.com/@AYUSHJAISWAL28"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
 <a href="https://dev.to/depressed_programmer"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
-<a href="https://auth.geeksforgeeks.org/user/ayush2024cs1134"><img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c"/></a>
+
 
 
 
