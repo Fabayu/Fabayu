@@ -17,7 +17,7 @@
 - 💬 Ask me about Web sites  and Javascript
 - 🧑‍💻 I’m looking to collaborate on open source projects
 - 😄 Pronouns: he/him/his
-<!-- - ⚡ Fun fact: My Nickname is Sunny -->
+-⚡ Fun fact: My Nickname is Sunny 
 - 📫 How to reach me: ayushjai1267@gmail.com 
 
 
