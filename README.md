@@ -26,7 +26,7 @@
 
 <a href="https://twitter.com/ayush_jai28"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 <!-- <a href="https://www.linkedin.com/in/ayush-jaiswal-aa3781211/"><img src="https://img.shields.io/badge/Linkedin-0072b1.svg?style=for-the-badge&logo=Linkedin&logoColor=white"/></a> -->
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Fabayu&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-jaiswal" /> </p>
 <a href="https://medium.com/@ayushjai1267"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 <a href="https://hashnode.com/@AYUSHJAISWAL28"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
 <a href="https://dev.to/depressed_programmer"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
