@@ -37,54 +37,16 @@
 
 [![@ayushcs1134's Holopin board](https://holopin.io/api/user/board?user=ayushcs1134)](https://holopin.io/@ayushcs1134)
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%"/>
-<h3 align="center">Languages and Tools:</h3>
 
-<div style="display: inline-block"><br />
-    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img align="center" alt="REACTJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-8b12fd?style=for-the-badge&logo=Bootstrap&logoColor=white" />
-    <img align="center" alt="Tailwind" src="https://img.shields.io/badge/Tailwindcss-38bdf8?style=for-the-badge&logo=Tailwindcss&logoColor=white" />
-    <img align="center" alt="Jquery" src="https://img.shields.io/badge/Jquery-0865a6?style=for-the-badge&logo=Jquery&logoColor=white" />
-    <img align="center" alt="API" src="https://img.shields.io/badge/API-202124?style=for-the-badge&logo=API&logoColor=white" />
-    <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-0ac97f?style=for-the-badge&logo=Figma&logoColor=black" />
-    <img align="center" alt="Github" src="https://img.shields.io/badge/Github-161b22?style=for-the-badge&logo=Github&logoColor=white" />
-    <img align="center"alt="GIT" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-         <img align="center"alt="" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
-          <img align="center"alt="" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
-         <img align="center"alt="" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-          <img align="center"alt="" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" />
-         <img align="center"alt="" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-         <img align="center"alt="" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-         <img align="center"alt="" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-         <img align="center"alt="" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" /> 
-         <img align="center"alt="" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />
-         <img align="center"alt="" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
-         <img align="center"alt="" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-         <img align="center"alt="" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
-         <img align="center"alt="" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
-         <img align="center"alt="" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-         <img align="center"alt="" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-         <img align="center"alt="" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-         <img align="center"alt="" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-         <img align="center"alt="" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-         <img align="center"alt="" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-         <img align="center"alt="" src="https://img.shields.io/badge/Matplotlib-%23#ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />
-         <img align="center"alt="" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-         <img align="center"alt="" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
-         <img align="center"alt="" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
-         <img align="center"alt="" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-         <img align="center"alt="" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-         <img align="center"alt="" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-         <img align="center"alt="" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
-         <img align="center"alt="" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-         <img align="center"alt="" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-         <img align="center"alt="FireBase" src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" />
-    <img align="center" alt="" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-    <img align="center" alt="" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-    <img align="center" alt="" src=""/>
-    
+
+### 💻 Skills :
+
+<table>  <tr>  <td align="center" width="96">  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" /><br> JavaScript </td>  <td align="center" width="96">  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" /><br> TypeScript </td>  <td align="center" width="96">  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50" /><br> Node.js </td>  <td align="center" width="96">  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="50" height="50" /><br> Postman</td>  <td align="center" width="96">  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50" /><br> HTML </td>  <td align="center" width="96">  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" height="50" /><br> CSS </td>  <td align="center" width="96">  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" /><br> React </td>  </tr>  <tr>  <td align="center" width="96">  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="java" width="50" height="50"><br> Java </td>  <td align="center" width="96">  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="50" height="50" /><br> PostgreSQL </td>  <td align="center" width="96">  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50" /><br> AWS </td>  <td align="center" width="96">    <img src="https://skillicons.dev/icons?i=express" alt="Git" width="50" height="50" /><br> Git </td>  <td align="center" width="96">  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" /><br> GitHub </td>  <td align="center" width="96">  <img src="https://skillicons.dev/icons?i=nestjs" alt="Bootstrap" width="50" height="50" /><br> Bootstrap </td>  <td align="center" width="96">  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="Rest API" width="50" height="50" /><br> Rest API </td>  </tr> </table>
+<hr>
+
+
+
+
 </div>
 
 
